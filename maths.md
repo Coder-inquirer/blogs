@@ -2,7 +2,7 @@
 
 ### Kolmogorov–Arnold representation theorem
 ##### 29-04-2020
-From wikipedia https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold_representation_theorem :
+From [Wikipedia page](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold_representation_theorem) :
 
 _The Kolmogorov–Arnold representation theorem (or superposition theorem) states that every multivariate continuous function can be represented as a superposition of continuous functions of one variable. It solved a more constrained, yet more general form of Hilbert's thirteenth problem._
 
