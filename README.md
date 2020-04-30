@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my Blogs
 
-You can use the [editor on GitHub](https://github.com/Coder-inquirer/Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of these blogs is to record any interesting stuff that I come across.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Maths blog](coder-inquirer.github.io/blogs/maths)
 
-### Markdown
+### Markdown (for personal reference)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
