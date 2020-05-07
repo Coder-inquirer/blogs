@@ -2,8 +2,8 @@
 
 The purpose of these blogs is to record any interesting stuff that I come across.
 
-### [Maths blog](/maths)
-### [Physics blog](/physics)
+### [Maths blog](/blogs/maths)
+### [Physics blog](/blogs/physics)
 ___
 
 ### Markdown (for personal reference)
