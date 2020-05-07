@@ -2,8 +2,8 @@
 
 The purpose of these blogs is to record any interesting stuff that I come across.
 
-### [Maths blog](coder-inquirer.github.io/blogs/maths)
-### [Physics blog](coder-inquirer.github.io/blogs/physics)
+### [Maths blog](/maths)
+### [Physics blog](/physics)
 ___
 
 ### Markdown (for personal reference)
