@@ -1,1 +1,2 @@
-theme: jekyll-theme-alembic
+remote_theme: daviddarnes/alembic
+theme: jekyll-theme-leap-day
