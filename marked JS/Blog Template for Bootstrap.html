@@ -80,27 +80,13 @@
           <div id="content2"></div>
           <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
           <script>
-            var text = fs.readFileSync("./input.txt").toString('utf-8');
             document.getElementById('content').innerHTML =
               marked('## Marked in browser\n\nRendered by **marked**.');
-              document.getElementById('content2').innerHTML =
+          </script>
+          <script>
+            var text = fs.readFileSync("./input.txt").toString('utf-8');
+            document.getElementById('content2').innerHTML =
               marked(text);
-            
-            // Requiring fs module in which 
-            // readFile function is defined. 
-            const fs = require('fs') 
-              
-            // Reading data in utf-8 format 
-            // which is a type of character set. 
-            // Instead of 'utf-8' it can be  
-            // other character set also like 'ascii' 
-            fs.readFile('Input.txt', 'utf-8', (err, data) => { 
-                if (err) throw err; 
-              
-                // Converting Raw Buffer to text 
-                // data using tostring function. 
-                console.log(data); 
-            }) 
           </script>
          
           <nav class="blog-pagination">
