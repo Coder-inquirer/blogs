@@ -84,9 +84,19 @@
               marked('## Marked in browser\n\nRendered by **marked**.');
           </script>
           <script>
-            var text = fs.readFileSync("./input.txt").toString('utf-8');
-            document.getElementById('content2').innerHTML =
-              marked(text);
+            //var text = fs.readFileSync("./input.txt").toString('utf-8');
+            var fr=new FileReader(); 
+            console.log("FileReader created")
+            fr.onload=function(){ 
+                //document.getElementById('output') 
+                //        .textContent=fr.result; 
+                document.getElementById('content2').innerHTML =
+                  marked(fr.result);
+            } 
+            fr.readAsText('https://coder-inquirer.github.io/blogs/marked%20JS/input.txt'); 
+            
+            //document.getElementById('content2').innerHTML =
+              //marked(text);
           </script>
          
           <nav class="blog-pagination">
