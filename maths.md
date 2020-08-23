@@ -13,3 +13,10 @@ From [Wikipedia page](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold_re
 >_In a sense, they showed that the only true multivariate function is the sum, since every other function can be written using univariate functions and summing._
 
 Professor Guiseppe Carleo mentioned in a [talk](https://youtu.be/90OZoet_1CU?t=639) that this can be said to be the first use of the concept behind neural networks, i.e. functions applied to linear combination of results of functions can be a very compact way of expressing any multivariate functon. 
+
+
+### Monster group and the Moon shine Conjecture
+#### 23-08-2020
+[link to the quantamagazine article](https://www.quantamagazine.org/mathematicians-chase-moonshine-string-theory-connections-20150312/)
+The above article quotes Shamit Kachru, a string theorist at Stanford University, 
+> “Any time you hear about a striking result in number theory, there’s a high chance that it’s really a statement about modular forms.”
