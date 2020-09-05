@@ -20,3 +20,9 @@ Professor Guiseppe Carleo mentioned in a [talk](https://youtu.be/90OZoet_1CU?t=6
 [link to the quantamagazine article](https://www.quantamagazine.org/mathematicians-chase-moonshine-string-theory-connections-20150312/)
 The above article quotes Shamit Kachru, a string theorist at Stanford University, 
 > “Any time you hear about a striking result in number theory, there’s a high chance that it’s really a statement about modular forms.”
+
+### Resolution of conflict
+#### 05-09-2020
+Read the answer by Bill Thurston. Also, the article that referred to the MathOverfow question.
+https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do 
+https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/
