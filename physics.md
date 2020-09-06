@@ -18,3 +18,8 @@ Gerard t'Hooft's webpages:
 #### Complex Analysis:
 * http://www-thphys.physics.ox.ac.uk/people/JamesBinney/complex.pdf
 
+
+## Walking the Blind Alleys
+#### started on 06-09-2020
+### Emergence
+Essentially collectively stable 'modes' (much like modes of oscillators) of an individual behaviour under various conditions. 
